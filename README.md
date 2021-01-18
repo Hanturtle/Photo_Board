@@ -8,8 +8,7 @@ install
  - pip install django-hitcount
  - pip3 install whitenoise
 
-
-![](https://images.velog.io/images/hanturtle/post/d27d5e72-d224-4e6d-8d8d-d3e1843291a0/image.png)
+<img src="https://images.velog.io/images/hanturtle/post/d27d5e72-d224-4e6d-8d8d-d3e1843291a0/image.png" width="40%" height="30%"></img>
 
 ![](https://images.velog.io/images/hanturtle/post/5aaf7aee-ea78-45e7-85af-c1b987748020/image.png)
 
